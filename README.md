@@ -9,7 +9,7 @@ Each assignment is designed to strengthen **C programming fundamentals**, coveri
 
 this problem convert readme.me file into github. not change the question" Coding Problem
 
-Assignment-1
+## Assignment-1
 1. write a program to print Hello student on the screen
 2. write a program to print Hello in the first line and students in the second line
 3. write a program to print "AlgoDev!" on the Screen. (Remeber to print in double quotes).
@@ -21,7 +21,7 @@ Assignment-1
 9. write a program to calculate area of a rectangle. input appropriate data from the user.
 10. WAP to find the area fo the circle. Take radius of circle from user as input.
 
-=> Assignment-2
+## => Assignment-2
 1. WAP to calculate average of three intergers. Numberare given by the user.
 2. WAP to calculate circumference of a circle.
 3. WAP to calculate simple interest.
