@@ -7,279 +7,259 @@ Each assignment is designed to strengthen **C programming fundamentals**, coveri
 
 ## 🚀 Assignments
 
-### ✅ Assignment 1
-1. Print `Hello student` on the screen.  
-2. Print `Hello` in the first line and `students` in the second line.  
-3. Print `"AlgoDev!"` (including double quotes).  
-4. Print `\n` on the screen.  
-5. Print `\r` on the screen.  
-6. Print `"Teacher's Day"` (with double and single quotes).  
-7. Calculate the sum of two integers (input from user).  
-8. Calculate square of a given number (input from user).  
-9. Calculate area of a rectangle (input from user).  
-10. Find the area of a circle (input radius from user).  
+this problem convert readme.me file into github. not change the question" Coding Problem
 
----
+Assignment-1
+1. write a program to print Hello student on the screen
+2. write a program to print Hello in the first line and students in the second line
+3. write a program to print "AlgoDev!" on the Screen. (Remeber to print in double quotes).
+4. write a program to print \n on the screen.
+5. write a program to print \r on the screen.
+6. write a program to print "Teacher's Day" on the screen. (Remember to print double and single quotes).
+7. write a program to calculate sum of two integers. Numbers are taken from user through keyboard.
+8. write a program to calculate square of a given number. Number is entered by the user.
+9. write a program to calculate area of a rectangle. input appropriate data from the user.
+10. WAP to find the area fo the circle. Take radius of circle from user as input.
 
-### ✅ Assignment 2
-1. Calculate average of three integers.  
-2. Calculate circumference of a circle.  
-3. Calculate simple interest.  
-4. Calculate volume of a cuboid.  
-5. Profit/Loss calculation for selling 25 bananas (based on CP & SP per dozen).  
+=> Assignment-2
+1. WAP to calculate average of three intergers. Numberare given by the user.
+2. WAP to calculate circumference of a circle.
+3. WAP to calculate simple interest.
+4. WAP to calculate volume of a cuboid.
+5. WAP to ask user about the cost price and selling price banana per dozen. Calculate the profit or loss earned upon selling 25 bananas.
 
----
+=> Assignment-3
+1. WAP to input a character from the user and print its ASCII code.
+2. WAP to input an ASCII code from the user and print its corresponding character.
+3. WAP to input three character from the user and display character with their corresponding ASCII codes.
+4. WAP to print last digit of a given number.
+5. WAP to print a given number without its last digit.
 
-### ✅ Assignment 3
-1. Input a character and print its ASCII code.  
-2. Input an ASCII code and print its corresponding character.  
-3. Input three characters and display their ASCII codes.  
-4. Print last digit of a given number.  
-5. Print a number without its last digit.  
+=> Assignment-4
+1. WAP to calculate size of a character constant.
+2. WAP to calculate size of a real constant.
+3. WAP with one char type variable. Assighn 'A' in the variable. Now change the value of variable from 'A' to 'B' using increment operator.
+4. WAP to swap values of two int variables
+5. WAP to swap value of two int variables without using a third variable.
+6. WAP to swap values of two int variables without using third variable and without using +,- operator
+7. WAP to swap values to two values of two int variable without using third variable and arithmetic operators.
+8. WAP to swap values of two int variables in single line arithmetic expression.
 
----
+=> Assignment-5
+1. WAP to input a three digit number and display the sum of the digits.
+2. WAP to find ASCII code of the charavter '+'
+3. WAP to print size of an int, a float a char and a double type variable 
+4. WAP to make the last digit of a number stored in a variable as zero. (Example - if x=2345 then make it x = 2340)
+5. WAP to input a number from the user and also input a digit. Append a digit in the number and print the resulting number.(Example - number=234 and digit=9 then the resulting nubmer is 2349)
 
-### ✅ Assignment 4
-1. Calculate size of a character constant.  
-2. Calculate size of a real constant.  
-3. Increment a `char` variable from `'A'` to `'B'`.  
-4. Swap two integers (using third variable).  
-5. Swap two integers (without third variable).  
-6. Swap without using `+` and `-`.  
-7. Swap without third variable and arithmetic operators.  
-8. Swap in a single line arithmetic expression.  
+=> Assignment-6
+1. Assume price of 1 USD i INR 84.23. Write a program to take the amount in INR and convert it into USD2. 
+2. WAP to take a three digit nubmer from the user and rotate its digits by one position towards the right.
+3. What will be the value stored in the variable x after executing following statement : x=10>8>4;
+4. what will be the value stored in the variable x after executing following statement: x=!2>-2;
+5. what will be the value stored in the variable x after executing following statement: x=3<0&&5>0;
 
----
+=> Assignment-7
+1. WAP to check whether a given number is positive or non positive
+2. WAP to check whether a given number is divisible by 5 or not
+3. WAP to check whether a given number is an even number or an odd number.
+4. WAP to check Whether a given nujmber is and even number or and odd number without using % operator.
+5. WAP to check whether the given number is even or odd using a bitwise operator
 
-### ✅ Assignment 5
-1. Input a three-digit number and display sum of digits.  
-2. Find ASCII code of `'+'`.  
-3. Print size of `int`, `float`, `char`, and `double`.  
-4. Make the last digit of a number zero (e.g., 2345 → 2340).  
-5. Append a digit to a number (e.g., 234 + 9 → 2349).  
+=> Assignment-8
+1. WAP to check whether a given nubmer is a three digit number or not.
+2. WAP to print greter between two nubmers. Print one number if both are the same.
+3. WAP to check whether roots of a given quadratic equation are real & distinct, real & equal or imaginary roots
+4. WAP to check whether a given year is a leap year or not
+5. WAP to find the greatest among three given numbers. Print number once if the greatest number appears two or three times.
 
----
+=> Assignment-9
+1. WAP which takes the cost prince and selling price of a product from the user. Now calculate and print profit or loss percentage.
+2. WAP to take marks of 5 subjects from the user. Assme marks are given out of 100 and passing marks is 33. Now display whether the condidate passed the examination or failed.
+3. WAP to check wheter a given alphabet is in uppercase or lowercase.4.  WAP to check wheter a given number id divisible by 3 and divisble by 2.
+5. WAP to check wheter a given number id divisible by 7 or divisble by 3.
 
-### ✅ Assignment 6
-1. Convert INR to USD (`1 USD = 84.23 INR`).  
-2. Rotate digits of a 3-digit number to the right.  
-3. Evaluate: `x = 10 > 8 > 4`.  
-4. Evaluate: `x = !2 > -2`.  
-5. Evaluate: `x = 3 < 0 && 5 > 0`.  
+=> Assignment-10
+1. WAP to check wheter a given number is positive, negative or zero.
+2. WAP to check whether a given character is an alphabet (uppercase), an alphabet (lower case), a digit or a special charter.
+3. WAP takes the length of the sides of a triangle as an input. display whether the triangle is valid or not
+4. WAP which takes the month number as an input and display number of days in that month.
 
----
+=> Assignment-11
+1. WAP to print algodev 5 time on the screen
+2. WAP to print the first 10 natural numbers
+3. WAP to print the first 10 natural numbers in reverse order
+4. WAP to print the first 10 odd natural numbers
+5. WAP to print the first 10 odd natural numbers in reverse order
+6. WAP to print the first 10 even natural numbers
+7. WAP to print the first 10 even natural numbers in reverse order
+8. WAP to print squares of the first 10 natural numbers
+9. WAP to print cubes of the first 10 natural numbers
+10. WAP a program to print a table of 5
 
-### ✅ Assignment 7 – Conditionals
-1. Check if number is positive or non-positive.  
-2. Check if divisible by 5.  
-3. Check if even or odd.  
-4. Check even/odd without `%`.  
-5. Check even/odd using bitwise operator.  
+=> Assignment-12 (While loop)
+1. WAP to print Algodev times on the screen
+2. WAP to print the first N natural numbers
+3. WAP to print the first N natural numbers in reverse order
+4. WAP to print the first N odd natural numbers
+5. WAP to print the first N odd natural numbers in reverse order
+6. WAP to print the first N even natural numbers
+7. WAP to print the first N even natural numbers in reverse order
+8. WAP to print squares of the first N natural numbers
+9. WAP to print cubes of the first N natural numbers
+10. WAP to print table of N 
+11.  
 
----
+=> ASSIGNMENT-13
+1. WAP TO calculate sum of first N natural numbers
+2. WAP to calculate sum of first N even natural numbers
+3. WAP to calculate sum of first N odd natural numbers
+4. WAP to calculate sum of squares of first N natural numbers
+5. WAP to calculate sum of cubes of first N natural numbers
 
-### ✅ Assignment 8 – Conditionals
-1. Check if a number is three-digit or not.  
-2. Print greater between two numbers.  
-3. Check nature of roots of quadratic equation.  
-4. Check leap year.  
-5. Find greatest among three numbers.  
+=> Assignment-14 (use any loop)
+1. WAP to calculate factorial of a number
+2. WAP to count digits in a given number
+3. WAP to check whether a given number is a prime number or not
+4. WAP to calculate LCM of two numbers
+5. WAP to reverse a given number
 
----
+=> Assignment-15 (level up with loops)
+1. WAP to print all prime numbers under 100
+2. WAP to print all prime numbers between two given numbers
+3. WAP to find next prime number of a given number
+4. WAP to calculate HCF of two numbers
+5. WAP to check whether two given numbers are co-prime numbers or not
 
-### ✅ Assignment 9 – Conditionals
-1. Profit/Loss percentage calculation.  
-2. Marks of 5 subjects → Pass/Fail (passing = 33).  
-3. Check alphabet case (upper/lower).  
-4. Check divisibility by `2 & 3`.  
-5. Check divisibility by `7 or 3`.  
+=> Assignment-16 (level up with loops)
+1. WAP to find the Nth term of the Fibonacci series
+2. WAP to print first N terms of Fibonacci series
+3. WAP to check whether a given number is there in there in the Fibonacci series or not
+4. WAP to check whether a given number is an Armstrong number or not
+5. WAP to print all Armstrong numbers under 1000
 
----
+=> ASSignment-17/18 (Star Pattern problems)
 
-### ✅ Assignment 10 – Conditionals
-1. Check positive/negative/zero.  
-2. Check if input is uppercase, lowercase, digit, or special character.  
-3. Check validity of a triangle (by sides).  
-4. Display number of days in a month.  
 
----
+=> Assignment-19 (switch case control)
 
-### ✅ Assignment 11 – For Loops
-1. Print `Algodev` 5 times.  
-2. First 10 natural numbers.  
-3. First 10 natural numbers in reverse.  
-4. First 10 odd numbers.  
-5. First 10 odd numbers in reverse.  
-6. First 10 even numbers.  
-7. First 10 even numbers in reverse.  
-8. Squares of first 10 natural numbers.  
-9. Cubes of first 10 natural numbers.  
-10. Table of 5.  
+1. WAP which takes the month number as an input and display number of days in that month.
+2. WAP a menu driven program with the following options: 
+    1. addition 
+    2. subtraction
+    3. multiplication
+    4. division
+    5. exit
+3. WAP which takes the day number of a week and displays a unique greeting message for the day
+4. write a menu driven program with the following options:
+    1. check whether a given set of three numbers are lengths of an isosceles triangle or not
+    2. check whether a given set of three numbers are lengths of sides of a right angled triangle or not
+    3. check whether a given set of three numbers are equilateral triangle or not
+    4. exit
+5. convert the following if-else-if construct into switch case
+ 	if(var==1)
+			printf(“good’);
+else if(var==2)
+	printf(“better”);
+else if(var==3)
+printf(“best”);
+else
+	printf(“invalid”);
 
----
 
-### ✅ Assignment 12 – While Loop
-(Same problems as Assignment 11 but using `while` loop).  
+=> Assignment-20: (switch case control)
+1. WAP to find and display grade obtained by a  student in a test. Grading specifications are as follows:
+    1. marks from 90 to 100  : Grade B
+    2. marks from 80 to less than 90 : Grade B
+    3. Marks from 70 to less than 80 : Grade C
+    4. Marks from 60 to less than 70 : Grade D
+    5. marks from 50 to less than 60 : Grade  E
+    6. marks below 50 : Grade F
+    7. Marks greater than 100 or less than 0 : invalid marks
+2. Write a menu driven program with the following options:
+    1. factorial of a number 
+    2. check even and odd
+    3. area of circle 
+    4. sum of first N natural numbers 
+    5. exit
+3. WAP to check whether a given character is uppercase alphabet or lower case alphabet or some other special character, using switch case statement.
+4. WAP to check whether a given character is vowel or consonant or some other special character, using switch case statement.
+5. Write a menu driven program with the following options:
+    1. calculate LCM of two numbers
+    2. calculate sum of the digits of a number 
+    3. volume of a cuboid
+    4. check whether a given number is prime or not
+    5. Exit
 
----
+=> Assignment-21 (Functions)
+1. write a function to calculate the area of a circle.(TSRS)
+2. Write a function to calculate simple  interest 
+3. write a function to check whether a given number is even or odd. Return 1 if the number is even, otherwise return 0
+4. write a function to print first N natural numbers 
+5. write a function to print first N odd natural numbers
 
-### ✅ Assignment 13 – Loops
-1. Sum of first N natural numbers.  
-2. Sum of first N even numbers.  
-3. Sum of first N odd numbers.  
-4. Sum of squares of first N natural numbers.  
-5. Sum of cubes of first N natural numbers.  
+=> Assignment-22 (Function)
+1. WAF to calculate the factorial of a number 
+2. WAF to calculate the number of combinations one can make from n items and r selected at a time
+3. WAF to calculate the number of arrangements one can make from n items and r selected at a time
+4. WAF to check whether a given number contains a given digit or not
+5. WAF to print all prime factors of a given number. For Example, if the number is 36 then your result should be 2,2,3,3 
 
----
+=> Assignment-23 (more on function )
+1. WAF to calculate LCM of two numbers 
+2. WAF to calculate HCF of two numbers
+3. WAF to check whether a given number is prime or not
+4. WAF to find the next prime number of a given number
+5. WAF to print first N prime numbers
 
-### ✅ Assignment 14 – Loops
-1. Factorial of a number.  
-2. Count digits in a number.  
-3. Prime number check.  
-4. LCM of two numbers.  
-5. Reverse a number.  
+=> Assignment-24 (more on Functions)
+1. WAF to print all prime numbers between two given numbers.
+2. WAF to print N terms of Fibonacci series
+3. WAF to print PASCAL Triangle
+4. WAF to print all Armstrong numbers between two given number
+5. WAF to find the sum of first N terms of the series 1!/1+2!/2+3!/3+4!/4+5!/5….n!/n
 
----
+=> Assignment-25 (Recursion)
+1. write a recursive function to print first N natural numbers
+2. Write a recursive function to print first N natural numbers in reverse order
+3. Write a recursive function to print first N odd natural numbers
+4. Write a recursive function to print first N odd natural numbers in reverse order 
+5. Write a recursive function to print first N even natural numbers
 
-### ✅ Assignment 15 – Advanced Loops
-1. Print all primes under 100.  
-2. Print all primes between two numbers.  
-3. Next prime of a number.  
-4. HCF of two numbers.  
-5. Co-prime check.  
+=> Assignment-26 (Recursion)
+1. Write a recursive function to print first N even natural numbers in reverse order
+2.  Write a recursive function to print squares of first N natural numbers
+3. Write a recursive function to print binary of a given decimal number
+4. Write a recursive function to print octal of a given decimal number
+5. Write a recursive function to print reverse of a given number
 
----
+=> Assignment-27 (more on Recursion)
+1. Write a recursive function to calculate sum of first N natural numbers
+2. Write recursive function to calculate sum of first N odd natural numbers
+3. Write a recursive function to calculate sum of first N even natural numbers
+4. Write a recursive function to calculate sum of squares of first n natural numbers
+5. write a recursive function to calculate sum of digits of a given number
 
-### ✅ Assignment 16 – Advanced Loops
-1. Nth Fibonacci term.  
-2. First N Fibonacci terms.  
-3. Check if number is in Fibonacci series.  
-4. Armstrong number check.  
-5. Print all Armstrong numbers under 1000.  
+=> Assignment-28 (More on recursion)
+1. Write a recursive function to calculate factorial of a given number
+2. write a recursive function to calculate HCF of two numbers
+3. Write a recursive function to print first N terms of Fibonacci series
+4. Write a program in C to count the digits of a given number using recursion
+5. Write a program in C to calculate the power of any number suing recursion 
 
----
+=> Assignment-29 (Array)
+1. WAP to calculate the sum of numbers stored in an array of size 10. take array values from the user
+2. WAP to calculate the average of numbers stored in an array of size 10. take array values from the user
+3. WAP to calculate the sum of all even numbers and sum of all odd numbers, which are stored in an array of size 10. Take array values from the user
+4. WAP to find the greatest number stored in an array of size 10. take array values from the user
+5. WAP to find the smallest number stored in an array of size 10. Take array values from the user
 
-### ✅ Assignment 17/18 – ⭐ Star Patterns  
+=> Assignment-30 (more array)
+1. WAP to sort elements of an array of size 10. take array values from the user
+2. WAP to find second largest in an array. take array values from the user
+3. WAP to find the second smallest number in an array. Take array values from the user
+4. WAP to sort an array of 10 elements in descending order
+5. WAP in  C to copy the elements of one array into another array. take array values from the user.
 
----
 
-### ✅ Assignment 19 – Switch Case
-1. Days in a month.  
-2. Menu-driven calculator (Add, Subtract, Multiply, Divide, Exit).  
-3. Day number → Greeting.  
-4. Triangle type check (isosceles, right-angled, equilateral).  
-5. Convert if-else-if ladder into switch.  
 
----
-
-### ✅ Assignment 20 – Switch Case
-1. Grade calculation.  
-2. Menu-driven (factorial, even/odd, circle area, sum, exit).  
-3. Check uppercase/lowercase/special character.  
-4. Check vowel/consonant/special character.  
-5. Menu-driven (LCM, digit sum, cuboid volume, prime check, exit).  
-
----
-
-### ✅ Assignment 21 – Functions
-1. Function to calculate area of a circle.  
-2. Function to calculate simple interest.  
-3. Function to check even/odd (return 1 or 0).  
-4. Function to print first N natural numbers.  
-5. Function to print first N odd numbers.  
-
----
-
-### ✅ Assignment 22 – Functions
-1. Factorial function.  
-2. Combination function (nCr).  
-3. Arrangement function (nPr).  
-4. Function to check if number contains a digit.  
-5. Function to print prime factors of a number.  
-
----
-
-### ✅ Assignment 23 – Functions
-1. LCM function.  
-2. HCF function.  
-3. Prime check function.  
-4. Next prime function.  
-5. Print first N primes.  
-
----
-
-### ✅ Assignment 24 – Functions
-1. Print primes between two numbers.  
-2. Print N Fibonacci terms.  
-3. Print Pascal’s Triangle.  
-4. Print Armstrong numbers in a range.  
-5. Special series sum: `1!/1 + 2!/2 + … n!/n`.  
-
----
-
-### ✅ Assignment 25 – Recursion
-1. Print first N natural numbers.  
-2. Print first N natural numbers in reverse.  
-3. Print first N odd numbers.  
-4. Print first N odd numbers in reverse.  
-5. Print first N even numbers.  
-
----
-
-### ✅ Assignment 26 – Recursion
-1. Print first N even numbers in reverse.  
-2. Print squares of first N natural numbers.  
-3. Print binary of a decimal.  
-4. Print octal of a decimal.  
-5. Print reverse of a number.  
-
----
-
-### ✅ Assignment 27 – Recursion
-1. Sum of first N natural numbers.  
-2. Sum of first N odd numbers.  
-3. Sum of first N even numbers.  
-4. Sum of squares of first N numbers.  
-5. Sum of digits of a number.  
-
----
-
-### ✅ Assignment 28 – Recursion
-1. Factorial (recursive).  
-2. HCF (recursive).  
-3. Fibonacci series (recursive).  
-4. Count digits (recursive).  
-5. Power of a number (recursive).  
-
----
-
-### ✅ Assignment 29 – Arrays
-1. Sum of 10 numbers (input array).  
-2. Average of 10 numbers.  
-3. Sum of even & odd numbers in array.  
-4. Greatest number in array.  
-5. Smallest number in array.  
-
----
-
-### ✅ Assignment 30 – Arrays
-1. Sort array of 10 elements.  
-2. Find second largest.  
-3. Find second smallest.  
-4. Sort array in descending order.  
-5. Copy one array into another.  
-
----
-
-## 🛠 Tech Stack
-- **Language:** C Programming  
-- **Concepts Covered:** Input/Output, Loops, Conditionals, Switch Case, Functions, Recursion, Arrays, Patterns  
-
----
-
-## 📌 Usage
-Clone this repository and practice solving the problems:
-
-```bash
-git clone https://github.com/your-username/coding-problems-assignments.git
-cd coding-problems-assignments
