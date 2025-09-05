@@ -337,7 +337,7 @@ else
 5. write a function to remove duplicate names stored in the list of names stored in a 2d char array
 
 ## => Assignment-41 : (Handling multiple strings)
-1.WAP to find words ending with a letter 's' and store each such word in a 2d char array.
+1. WAP to find words ending with a letter 's' and store each such word in a 2d char array.
 2. Write a fucntion to return the most repeating character in a list of strings.
 3. Write a fucntion to check wheter a pair of strings are anagram or not. both the strings are stored in a 2d char array.
 4. write a function to store all the words in a given string which are starting from 'a', in a two dimensional char array
