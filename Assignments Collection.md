@@ -343,6 +343,39 @@ else
 4. write a function to store all the words in a given string which are starting from 'a', in a two dimensional char array
 5. A 2d array is full with 10 email ids. Write a function to find how many of them belongs to gamil.com
 
+## => Assignment-42 (Pointers)
+1. WAP to swap values of two int variables (TSRN)
+2. Write a function to search all occurrences of a given character in a given string. Result of search is a list of indices to be stored in the given array. [ void search_all_occurrences(char *str, char ch int *arr):]
+3. write a function to convert a given string into uppercase
+4. Write a function to convert a given string into lowercase
+5. write a function to extract a substring from a given string with specified start index (inclusive) and end index (exclusive), and store the extracted string in another char array. [void extract_string(char *str, int start_index, int end_index, char *result);]
+
+## => Assignment-43 (more pointers)
+1. WAF to swap strings of two char arrays
+2. WAF to sort an array of int type values [void sort(int *ptr,int sixe):]
+3. WAF to merge two arrays in a given array. [void merge(int *arr1, int size1, int *arr2, int size2, int *arr3);]
+4. WAF to move first value of the array to the position where all smaller values will be in the left and greater values will be in the right.
+5. there are five classes with different number of students in them. five arrays containing marks of students of each class. write a function to reveive an address of an array of pointers to access marks of all the students. the job of function is to find the highest marks among all the classes.
+
+## => Assignment-44 (Structure)
+1. Define a structure Employeee with member variables id, name salary
+2. Write a function to take input employee data from the user. [Refer structure from question 1]
+3. WAF to display employee data [Refer structure from question 1]
+4. WAF to find the highest salary employee from a given array of 10 employees. [Refer structure from question 1]
+5. WAF to sort employees according to their salaries [refer structure from question 1]
+6. WF to sort employees according to their names [refer structure from question 1]
+
+## => Assignment-45 (more structure)
+1. WAP to calculate the difference between two time periods
+2. WAP to store information of 10 students and display them using structure
+3. WAP to store information of n students and display them using structure
+4. write a program to enter the marks of 5 students in chemistry, mathematics and physics(each out of 100) using a structure named marks having elements roll no,, name, chem_marks, maths_marks and phy_marks and then display the percentage of each student.
+
+## => Assignment-46 (DMA)
+1. Define a fucntion to input variable leaght string and store it in an array without memory wastage
+2. WAP to ask the user to input a number of data values he would like to enter then vreate an array dynamically to accommodate the data values now take the input from the user and display the average of data values.
+3. wap to caluclate the sum of n numbers entered by the user using malloc and free
+4. write a function to merge two array elements and store it in dynamically created array. return addreess of this dynamically created array.
 
 
 
