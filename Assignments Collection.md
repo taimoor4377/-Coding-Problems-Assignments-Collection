@@ -261,5 +261,90 @@ else
 4. WAP to sort an array of 10 elements in descending order
 5. WAP in  C to copy the elements of one array into another array. take array values from the user.
 
+## => Assignment-31 (Arrays and Functions)
+1. Write a function to find the greatest number from the given array of any size. (TSRS)
+2. Write a function to find the smallest number from the given array of any size. (TSRS)
+3. Write a function to sort an array of any size. (TSRN)
+4. Write a function to rotate an array by n position in d direction. the d is an indicative value for left or right. (for example, if array of size 5 is [32,29,40,12,70]; n is 2 and d is left, then the resulting array after rotation 2 times is [40,12,70,32,29] )
+5. Write a function to find the first occurrence of adjacent duplicate values in the array. function has to return the value of the element.
+
+## => Assignment-32: (Arrays and Functions)
+1. Write a function to swap two elements of given array with specified indices.
+2. Write a function to count a total number of duplicate elements in an array. (Means elements that occurs 2 times in an array)
+3. Write a function to print all unique elements in an array.
+4. Write a function to merge two arrays of the same size sorted in descending order
+5. Write a function to count the frequency of each element of an array
+
+## => Assignment-33: (Multi Dimensional Arrays)
+1. Write a program to calculate the sum of two matrices each of order 3X3
+2. write a program to calculate the product of two matrices each of order 3X3
+3. write a program to print the transpose of a given matrix
+4. four players are playing a tournament of chess with round robin method (each player will play with every other player). eachwin has 2 points, draw has 1 point and loose has 0 points. Declare a score_board two dimensional array to store the scores of the players agains each player.
+5. for que-4, define a function to update score_board after each match result.
+6. for que-4, define a function to display score_board.
+7. for que-4, define a function whice returns the score of a specific player
+8. for que-4, define a function to find the winner of the tournament.
+9. for que-4, define a function to display rank of the players.
+10. for que-4, define a function to run tournament, in which user has to enter result of each game and update score board using score_board function.
+
+## => Assignment-34: (string Basics)
+1. WAP to calculate the lenght of the string (without suing builtin method)
+2. WAP to count the occurrence of a given character in a given string
+3. WAP to count vowels in a given string
+4. WAP to count spaces in a given string
+5. WAP to convert a given string into uppercase
+
+## => Assignment-35: (String Basics)
+1. WAP to convert a given string into lowercase
+2. WAP to reverse a string
+3. WAP to C to count the total number of alphabets, digits and special characters in a string
+4. WAP in C to copy one String to another char array
+5. WAP to find first occurrence of a given character in a given string
+
+## => Assignment-36: (String and Functions)
+1. Write a function to calculate length of the string
+2. Write a function to reverse a string
+3. write a function to compare two strings
+4. write a function to transform string into uppercase
+5. write a function to transform a string into lowercase
+
+## => Assignment-37: (Strings and Functions)
+1. WAP to count vovels in a given string
+2. WAP to find a character in a given string. Return index of first occurrence of given character. Return -1 if character not found.
+3. Write a function to find character in a given string between specified indices (start index (inclusive) and end index (exclusive))
+4. WAP to swap two characters of a given string with specified indices.
+5. WAP to check whether a given string is an alphanumeric string or not. (Alphanumeric string must contain at least one alphabet and one digit)
+
+## => Assignment-38: (Strings and Functions)
+1. WAP to check whether a given string is palindrome or not.
+2. WAP to trim (removing leading spaces from both the ends)
+3. WAP to count words in a given string
+4. WAP to reverse a string word wise. (for example if the given string is "algo Education services" then the resulting string should be "services Education algo")
+5. WAP to do case insensitive comparison of two strings.
+
+## => Assignment-39: (Strings and functions)
+1. WAP to ount frequency of each character of the given string
+2. WAP to find a word in a given string
+3. wAP to make first character of each word of the string capital
+4. WAP to make acronym name form a given name. for example "Ramecsh Chand Tiwari" becomes " R C Tiwari","Bhavesh Gupta" Becomes "B Gupta"
+5. wAP to concatenate two strings
+
+## => Assignment-40: Handling multiple strings
+1. Write a function to store strings, taken from user, to the given 2nd char array.
+2. write a fucntion to find the number of vowels in each of the 5 stings stored in tow dimensional arrays, taken from the user.
+3. Write a program to sort 10 city names stored in two dimensional arrays, taken from the user.
+4. write a function to store each word a string in a 2 dimensional char array
+5. write a function to remove duplicate names stored in the list of names stored in a 2d char array
+
+## => Assignment-41 : (Handling multiple strings)
+1.WAP to find words ending with a letter 's' and store each such word in a 2d char array.
+2. Write a fucntion to return the most repeating character in a list of strings.
+3. Write a fucntion to check wheter a pair of strings are anagram or not. both the strings are stored in a 2d char array.
+4. write a function to store all the words in a given string which are starting from 'a', in a two dimensional char array
+5. A 2d array is full with 10 email ids. Write a function to find how many of them belongs to gamil.com
+
+
+
+
 
 
